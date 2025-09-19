@@ -1,0 +1,9 @@
+Adaptive Quiz Results
+----------------------
+Q1: Correct
+Q2: Correct
+Q3: Correct
+Q4: Correct
+Q5: Correct
+
+Final Score: 5/5
